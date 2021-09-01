@@ -8,13 +8,13 @@ A Mad Libs program that reads in text files and lets the user add their own text
 
 The program would find these occurrences and prompt the user to replace them.
 
-> Enter an adjective:
-> **silly**
-> Enter a noun:
-> **chandelier**
-> Enter a verb:
-> **screamed**
-> Enter a noun:
+> Enter an adjective: \n
+> **silly** \n
+> Enter a noun: \n
+> **chandelier** \n
+> Enter a verb: \n
+> **screamed** \n
+> Enter a noun: \n
 > **pickup truck**
 
 The following text file would then be created:
