@@ -7,6 +7,7 @@ A Mad Libs program that reads in text files and lets the user add their own text
 > The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was unaffected by these events.
 
 The program would find these occurrences and prompt the user to replace them.
+
 ---
 Enter an adjective:
 **silly**
@@ -16,6 +17,7 @@ Enter a verb:
 **screamed**
 Enter a noun:
 **pickup truck**
+
 ---
 The following text file would then be created:
 
